@@ -1,0 +1,6 @@
+[submodule "Client"]
+	path = Client
+	url = git@github.com:yash-sharma-js/dark-tweet-sentiment.git
+[submodule "Model0"]
+	path = Model0
+	url = git@github.com:sharmaroshan/Twitter-Sentiment-Analysis.git
